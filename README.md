@@ -1,5 +1,5 @@
 # DataInterfaceFlueGasAnalyzers
-Retrieval of live values and protocols as well as transmission of measurement sites via USB/Bluetooth for testo 320 and testo 330. testo 300 offers only online values via Bluetooth.
+Retrieval of live values and protocols as well as transmission of measurement sites via USB/Bluetooth for testo 320 and testo 330. testo 300 offers all these features via USB as well, but only online values via Bluetooth.
 
 ## Installation
 - Either download/clone entire repository and run TestoSetup.exe 
