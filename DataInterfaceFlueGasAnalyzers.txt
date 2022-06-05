@@ -1,3 +1,0 @@
-Testo DataInterfaceFlueGasAnalyzers Software
-Version 0.15.130.36107
-25 February 2021
